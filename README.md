@@ -1,2 +1,2 @@
 # test
-This is a DNAforge test repository
+This is a my personal test repository
